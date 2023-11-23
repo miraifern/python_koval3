@@ -1,0 +1,109 @@
+N	Language	ISO-639 code		Text
+--------------------------------------------------------
+1 	 afrikaans   	 af             	 appel
+2 	 albanian    	 sq             	 mollë
+3 	 amharic     	 am             	 አፕል
+4 	 arabic      	 ar             	 تفاحة
+5 	 armenian    	 hy             	 խնձոր
+6 	 azerbaijani 	 az             	 alma
+7 	 basque      	 eu             	 sagar
+8 	 belarusian  	 be             	 яблык
+9 	 bengali     	 bn             	 অ্যাপল
+10	 bosnian     	 bs             	 jabuka
+11	 bulgarian   	 bg             	 Apple
+12	 catalan     	 ca             	 poma
+13	 cebuano     	 ceb            	 mansanas
+14	 chichewa    	 ny             	 apulosi
+15	 chinese (simplified)	 zh-cn          	 苹果
+16	 chinese (traditional)	 zh-tw          	 蘋果
+17	 corsican    	 co             	 Apple
+18	 croatian    	 hr             	 jabuka
+19	 czech       	 cs             	 jablko
+20	 danish      	 da             	 æble
+21	 dutch       	 nl             	 appel
+22	 english     	 en             	 apple
+23	 esperanto   	 eo             	 pomo
+24	 estonian    	 et             	 õun
+25	 filipino    	 tl             	 Apple
+26	 finnish     	 fi             	 omena
+27	 french      	 fr             	 pomme
+28	 frisian     	 fy             	 appel
+29	 galician    	 gl             	 Apple
+30	 georgian    	 ka             	 ვაშლი
+31	 german      	 de             	 Apfel
+32	 greek       	 el             	 μήλο
+33	 gujarati    	 gu             	 સફરજન
+34	 haitian creole	 ht             	 pòm
+35	 hausa       	 ha             	 aful
+36	 hawaiian    	 haw            	 Apple
+37	 hebrew      	 iw             	 תפוח עץ
+38	 hebrew      	 he             	 תפוח עץ
+39	 hindi       	 hi             	 सेब
+40	 hmong       	 hmn            	 txiv avpaus
+41	 hungarian   	 hu             	 alma
+42	 icelandic   	 is             	 Apple
+43	 igbo        	 ig             	 apụl
+44	 indonesian  	 id             	 apel
+45	 irish       	 ga             	 úmhra
+46	 italian     	 it             	 mela
+47	 japanese    	 ja             	 りんご
+48	 javanese    	 jw             	 apel
+49	 kannada     	 kn             	 ಸೇಬು
+50	 kazakh      	 kk             	 алма
+51	 khmer       	 km             	 ផ្លេបោម
+52	 korean      	 ko             	 사과
+53	 kurdish (kurmanji)	 ku             	 sêv
+54	 kyrgyz      	 ky             	 алма
+55	 lao         	 lo             	 ຫມາກໂປມ
+56	 latin       	 la             	 pomum
+57	 latvian     	 lv             	 ābols
+58	 lithuanian  	 lt             	 obuolys
+59	 luxembourgish	 lb             	 Appellement
+60	 macedonian  	 mk             	 јаболко
+61	 malagasy    	 mg             	 paoma
+62	 malay       	 ms             	 epal
+63	 malayalam   	 ml             	 ആപ്പിൾ
+64	 maltese     	 mt             	 tuffieħ
+65	 maori       	 mi             	 āporo
+66	 marathi     	 mr             	 Apple पल
+67	 mongolian   	 mn             	 алим
+68	 myanmar (burmese)	 my             	 ပန်းသီး
+69	 nepali      	 ne             	 स्याऊ
+70	 norwegian   	 no             	 eple
+71	 odia        	 or             	 ଆପଲ୍
+72	 pashto      	 ps             	 ایپل
+73	 persian     	 fa             	 سیب
+74	 polish      	 pl             	 jabłko
+75	 portuguese  	 pt             	 maçã
+76	 punjabi     	 pa             	 ਸੇਬ
+77	 romanian    	 ro             	 măr
+78	 russian     	 ru             	 яблоко
+79	 samoan      	 sm             	 apu
+80	 scots gaelic	 gd             	 ubhal
+81	 serbian     	 sr             	 јабука
+82	 sesotho     	 st             	 apole
+83	 shona       	 sn             	 apuro
+84	 sindhi      	 sd             	 صويل
+85	 sinhala     	 si             	 ඇපල්
+86	 slovak      	 sk             	 jablko
+87	 slovenian   	 sl             	 Apple
+88	 somali      	 so             	 tufaax
+89	 spanish     	 es             	 manzana
+90	 sundanese   	 su             	 apel
+91	 swahili     	 sw             	 apple
+92	 swedish     	 sv             	 äpple
+93	 tajik       	 tg             	 себ
+94	 tamil       	 ta             	 ஆப்பிள்
+95	 telugu      	 te             	 ఆపిల్
+96	 thai        	 th             	 แอปเปิล
+97	 turkish     	 tr             	 elma
+98	 ukrainian   	 uk             	 яблуко
+99	 urdu        	 ur             	 سیب
+100	 uyghur      	 ug             	 ئالما
+101	 uzbek       	 uz             	 olma
+102	 vietnamese  	 vi             	 quả táo
+103	 welsh       	 cy             	 afalau
+104	 xhosa       	 xh             	 apile
+105	 yiddish     	 yi             	 עפּל
+106	 yoruba      	 yo             	 Apu
+107	 zulu        	 zu             	 i-apula

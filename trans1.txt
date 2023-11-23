@@ -1,0 +1,135 @@
+N	Language	ISO-639 code		Text
+-----------------------------------------------------
+1	afrikaans	af			sap
+2	albanian	sq			lëngu
+3	amharic		am			ጭማቂ
+4	arabic		ar			عصير
+5	armenian	hy			հյութ
+6	assamese	as			ৰস
+7	aymara		ay			umaña
+8	azerbaijani	az			şirəsi
+9	bambara		bm			zi
+10	basque		eu			zukua
+11	belarusian	be			сок
+12	bengali		bn			রস
+13	bhojpuri	bho			रस
+14	bosnian		bs			sok
+15	bulgarian	bg			сок
+16	catalan		ca			suc
+17	cebuano		ceb			duga
+18	chichewa	ny			madzi
+19	chinese (simplified)	zh-CN			果汁
+20	chinese (traditional)	zh-TW			果汁
+21	corsican	co			sucu
+22	croatian	hr			sok
+23	czech		cs			džus
+24	danish		da			Juice
+25	dhivehi		dv			ޖޫސް
+26	dogri		doi			जूस
+27	dutch		nl			sap
+28	english		en			juice
+29	esperanto	eo			suko
+30	estonian	et			mahla
+31	ewe		ee			atikutsetsetsi
+32	filipino	tl			katas
+33	finnish		fi			mehu
+34	french		fr			jus
+35	frisian		fy			sop
+36	galician	gl			zume
+37	georgian	ka			წვენი
+38	german		de			Saft
+39	greek		el			χυμός
+40	guarani		gn			yvarykue
+41	gujarati	gu			રસ
+42	haitian creole	ht			ji
+43	hausa		ha			ruwan 'ya'yan itace
+44	hawaiian	haw			wai wai
+45	hebrew		iw			מיץ
+46	hindi		hi			रस
+47	hmong		hmn			kua txiv
+48	hungarian	hu			gyümölcslé
+49	icelandic	is			safi
+50	igbo		ig			ihe ọṅụṅụ
+51	ilocano		ilo			ubbog
+52	indonesian	id			jus
+53	irish		ga			sú
+54	italian		it			succo
+55	japanese	ja			ジュース
+56	javanese	jw			jus
+57	kannada		kn			ರಸ
+58	kazakh		kk			шырын
+59	khmer		km			ទឹកផ្លែឈើ
+60	kinyarwanda	rw			umutobe
+61	konkani		gom			रोस
+62	korean		ko			주스
+63	krio		kri			jus
+64	kurdish (kurmanji)	ku			av
+65	kurdish (sorani)	ckb			شەربەت
+66	kyrgyz		ky			ширеси
+67	lao		lo			ນ້ໍາ
+68	latin		la			sucus
+69	latvian		lv			sula
+70	lingala		ln			jus
+71	lithuanian	lt			sultys
+72	luganda		lg			juyisi
+73	luxembourgish	lb			Jus
+74	macedonian	mk			сок
+75	maithili	mai			रस
+76	malagasy	mg			ranom-boankazo
+77	malay		ms			jus
+78	malayalam	ml			ജ്യൂസ്
+79	maltese		mt			meraq
+80	maori		mi			waiu
+81	marathi		mr			रस
+82	meiteilon (manipuri)	mni-Mtei			ꯍꯩ ꯃꯍꯤ
+83	mizo		lus			thiltui
+84	mongolian	mn			шүүс
+85	myanmar		my			ဖျော်ရည်
+86	nepali		ne			रस
+87	norwegian	no			juice
+88	odia (oriya)	or			ରସ
+89	oromo		om			cuunfaa
+90	pashto		ps			جوس
+91	persian		fa			آب میوه
+92	polish		pl			sok
+93	portuguese	pt			suco
+94	punjabi		pa			ਜੂਸ
+95	quechua		qu			qilli
+96	romanian	ro			suc
+97	russian		ru			сок
+98	samoan		sm			suasusu
+99	sanskrit	sa			फलरस
+100	scots gaelic	gd			sùgh
+101	sepedi		nso			tšuse
+102	serbian		sr			сок
+103	sesotho		st			lero
+104	shona		sn			muto
+105	sindhi		sd			رس
+106	sinhala		si			යුෂ
+107	slovak		sk			šťava
+108	slovenian	sl			sok
+109	somali		so			casiir
+110	spanish		es			jugo
+111	sundanese	su			jus
+112	swahili		sw			juisi
+113	swedish		sv			juice
+114	tajik		tg			шарбат
+115	tamil		ta			சாறு
+116	tatar		tt			сок
+117	telugu		te			రసం
+118	thai		th			น้ำผลไม้
+119	tigrinya	ti			ጽሟቕ
+120	tsonga		ts			juzi
+121	turkish		tr			Meyve suyu
+122	turkmen		tk			şiresi
+123	twi		ak			nsudeɛ
+124	ukrainian	uk			сік
+125	urdu		ur			رس
+126	uyghur		ug			شەربەت
+127	uzbek		uz			sharbat
+128	vietnamese	vi			nước ép
+129	welsh		cy			sudd
+130	xhosa		xh			ijusi
+131	yiddish		yi			זאַפט
+132	yoruba		yo			oje
+133	zulu		zu			ijusi
